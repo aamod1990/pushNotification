@@ -1,0 +1,19 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "this is sample example for push notificatin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node-push-notification"
+  ],
+  "author": "Aamod Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
